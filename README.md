@@ -2,7 +2,7 @@
 Yeah, exectly, do whatever.
 ## License
 ```
-                               DO WHATEVER LICENSE
+                              DO WHATEVER LICENSE
 
  Anyone is permitted and free to do whatever with this software, for any
  purpose, under the following terms and conditions.
@@ -18,12 +18,12 @@ Yeah, exectly, do whatever.
 ```
 ## Code of Conduct
 ```
-                           DO WHATEVER CODE OF CONDUCT
+                          DO WHATEVER CODE OF CONDUCT
 
  Anyone is permitted and free to contribute to this software, under the
  following rules.
 
-                                      RULES
+                                     RULES
 
   0. Do whatever.
 ```
