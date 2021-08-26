@@ -11,10 +11,11 @@ Yeah, exectly, do whatever.
 
   0. Do whatever.
 
-                             LIABILITY AND WARRANTY
+                             WARRANTY AND LIABILITY
 
- There is no warranty.
- The authors assume no liability for anything related to this software.
+ No warranty of any kind is provided.
+ In no event shall the authors be liable for anything related to this
+ software.
 ```
 ## Code of Conduct
 ```
